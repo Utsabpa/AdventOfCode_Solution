@@ -1,0 +1,17 @@
+{
+  "name": "balance-bots",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^7.1.2",
+    "mocha-testcheck": "^1.0.0-rc.0",
+    "testcheck": "^1.0.0-rc.2"
+  }
+}
